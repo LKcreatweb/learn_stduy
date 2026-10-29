@@ -9,7 +9,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 # 模型路径
-MODEL_PATH = Path(r"C:\lk\培训\models\Qwen--Qwen3-VL-8B-Instruct").resolve()
+MODEL_PATH = Path(r"models\Qwen--Qwen3-VL-8B-Instruct").resolve()
 
 
 # 图片上传大小限制：10 MB
